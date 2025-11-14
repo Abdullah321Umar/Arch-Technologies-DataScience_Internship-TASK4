@@ -144,8 +144,7 @@ features = df[['userId','movieId','rating','user_avg_rating','movie_avg_rating',
 
 
 # ---------------------------
-# Visualizations (15)
-# Each figure saved to output/
+# Visualizations
 # ---------------------------
 print("Creating and saving visualizations...")
 
@@ -458,6 +457,7 @@ print("Saved summary_report.json in output/")
 
 print("\n--- Completed pipeline ---")
 print(f"Check the '{OUTPUT_DIR}' folder for visualizations, models, and summary files.")
+
 
 
 
