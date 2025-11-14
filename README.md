@@ -143,8 +143,6 @@ This project demonstrates how predictive modeling turns passive user interaction
 ![Preview](https://github.com/Abdullah321Umar/Arch-Technologies-DataScience_Internship-TASK4/blob/main/15_user_avg_vs_movie_avg_sample.png)
 ![Preview](https://github.com/Abdullah321Umar/Arch-Technologies-DataScience_Internship-TASK4/blob/main/model_comparison_rmse_mae.png)
 ![Preview](https://github.com/Abdullah321Umar/Arch-Technologies-DataScience_Internship-TASK4/blob/main/rf_feature_importances.png)
-![Preview]()
-
 
 
 
