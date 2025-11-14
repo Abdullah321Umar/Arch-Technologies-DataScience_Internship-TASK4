@@ -1,0 +1,27 @@
+{
+  "n_users": 91,
+  "n_movies": 2889,
+  "n_ratings": 9999,
+  "sparsity": 0.9619663825271302,
+  "svd_rmse": 1.9772872445690108,
+  "svd_mae": 1.5690867766197734,
+  "rf_rmse": 0.7851968778808689,
+  "rf_mae": 0.5628781303331156,
+  "generated_plots": [
+    "01_rating_distribution.png",
+    "02_ratings_per_user_log.png",
+    "03_ratings_per_movie_log.png",
+    "05_top20_users_by_ratings.png",
+    "06_rating_boxplot.png",
+    "07_movie_avg_vs_count.png",
+    "08_user_avg_vs_count.png",
+    "09_sparsity_sample.png",
+    "10_ratings_per_year.png",
+    "11_user_movie_diff.png",
+    "12_baseline_user_diff.png",
+    "14_movie_avg_distribution.png",
+    "15_user_avg_vs_movie_avg_sample.png",
+    "model_comparison_rmse_mae.png",
+    "rf_feature_importances.png"
+  ]
+}
